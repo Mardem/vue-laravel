@@ -17,22 +17,22 @@
 
         </div>
         <div class="input-field col s6">
-          <input type="text" v-model="updated.bank" id="name-bank" :value="showData.bank" class="validate" placeholder="Nome da conta" required>
+          <input type="text" id="name-bank" v-model="showData.bank" class="validate" placeholder="Nome da conta" required>
           <label for="name-bank" class="active">Nome do banco</label>
         </div>
 
         <div class="input-field col s6">
-          <input  type="text" id="balance" :value="showData.balance" class="validate" placeholder="Saldo da Conta " required>
+          <input  type="text" id="balance" v-model="showData.balance" class="validate" placeholder="Saldo da Conta " required>
           <label for="balance" class="active">Saldo</label>
         </div>
 
         <div class="input-field col s6">
-          <input  type="text" id="agency" :value="showData.agency" class="validate" placeholder="Agencia" required>
+          <input  type="text" id="agency" v-model="showData.agency" class="validate" placeholder="Agencia" required>
           <label for="agency" class="active">Agência</label>
         </div>
 
         <div class="input-field col s6">
-          <input  type="text" id="account" :value="showData.account" class="validate" placeholder="Nº da Conta " required>
+          <input  type="text" id="account" v-model="showData.account" class="validate" placeholder="Nº da Conta " required>
           <label for="account" class="active">Nº da Conta</label>
         </div>
 

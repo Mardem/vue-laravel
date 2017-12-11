@@ -736,5 +736,693 @@
       "code": "",
       "description": "TEste"
     }
+  ],
+  "accounts": [
+    {
+      "id": 3,
+      "agency": 349,
+      "account": 689,
+      "bank": "Quero Mais",
+      "balance": 205.3578
+    },
+    {
+      "id": 4,
+      "agency": 761,
+      "account": 322,
+      "bank": "fugiat",
+      "balance": 481.853
+    },
+    {
+      "id": 5,
+      "agency": 401,
+      "account": 590,
+      "bank": "ex",
+      "balance": 147.2891
+    },
+    {
+      "id": 6,
+      "agency": 671,
+      "account": 69,
+      "bank": "qui",
+      "balance": 373.6065
+    },
+    {
+      "id": 7,
+      "agency": 23,
+      "account": 344,
+      "bank": "eiusmod",
+      "balance": 578.302
+    },
+    {
+      "id": 8,
+      "agency": 744,
+      "account": 593,
+      "bank": "duis",
+      "balance": 495.0301
+    },
+    {
+      "id": 9,
+      "agency": 510,
+      "account": 473,
+      "bank": "amet",
+      "balance": 123.1231
+    },
+    {
+      "id": 10,
+      "agency": 673,
+      "account": 738,
+      "bank": "in",
+      "balance": 910.2036
+    },
+    {
+      "id": 11,
+      "agency": 42,
+      "account": 436,
+      "bank": "enim",
+      "balance": 99.9851
+    },
+    {
+      "id": 12,
+      "agency": 15,
+      "account": 182,
+      "bank": "eiusmod",
+      "balance": 270.5604
+    },
+    {
+      "id": 13,
+      "agency": 343,
+      "account": 183,
+      "bank": "velit",
+      "balance": 247.064
+    },
+    {
+      "id": 14,
+      "agency": 115,
+      "account": 115,
+      "bank": "irure",
+      "balance": 595.549
+    },
+    {
+      "id": 15,
+      "agency": 38,
+      "account": 157,
+      "bank": "enim",
+      "balance": 45.0289
+    },
+    {
+      "id": 16,
+      "agency": 743,
+      "account": 426,
+      "bank": "cupidatat",
+      "balance": 501.2802
+    },
+    {
+      "id": 17,
+      "agency": 774,
+      "account": 937,
+      "bank": "eu",
+      "balance": 729.3246
+    },
+    {
+      "id": 18,
+      "agency": 115,
+      "account": 184,
+      "bank": "incididunt",
+      "balance": 397.1587
+    },
+    {
+      "id": 19,
+      "agency": 799,
+      "account": 659,
+      "bank": "nostrud",
+      "balance": 473.5759
+    },
+    {
+      "id": 20,
+      "agency": 325,
+      "account": 755,
+      "bank": "reprehenderit",
+      "balance": 834.4085
+    },
+    {
+      "id": 21,
+      "agency": 658,
+      "account": 641,
+      "bank": "commodo",
+      "balance": 48.8148
+    },
+    {
+      "id": 22,
+      "agency": 432,
+      "account": 572,
+      "bank": "tempor",
+      "balance": 873.8162
+    },
+    {
+      "id": 23,
+      "agency": 743,
+      "account": 121,
+      "bank": "ex",
+      "balance": 15.7559
+    },
+    {
+      "id": 24,
+      "agency": 531,
+      "account": 291,
+      "bank": "fugiat",
+      "balance": 225.8474
+    },
+    {
+      "id": 25,
+      "agency": 725,
+      "account": 922,
+      "bank": "amet",
+      "balance": 637.4662
+    },
+    {
+      "id": 26,
+      "agency": 24,
+      "account": 860,
+      "bank": "ex",
+      "balance": 789.7475
+    },
+    {
+      "id": 27,
+      "agency": 532,
+      "account": 449,
+      "bank": "officia",
+      "balance": 293.3926
+    },
+    {
+      "id": 28,
+      "agency": 80,
+      "account": 756,
+      "bank": "proident",
+      "balance": 928.9579
+    },
+    {
+      "id": 29,
+      "agency": 369,
+      "account": 611,
+      "bank": "est",
+      "balance": 770.8165
+    },
+    {
+      "id": 30,
+      "agency": 224,
+      "account": 642,
+      "bank": "eu",
+      "balance": 368.7978
+    },
+    {
+      "id": 31,
+      "agency": 469,
+      "account": 680,
+      "bank": "do",
+      "balance": 438.6929
+    },
+    {
+      "id": 32,
+      "agency": 961,
+      "account": 445,
+      "bank": "id",
+      "balance": 789.9441
+    },
+    {
+      "id": 33,
+      "agency": 279,
+      "account": 936,
+      "bank": "excepteur",
+      "balance": 669.1252
+    },
+    {
+      "id": 34,
+      "agency": 723,
+      "account": 965,
+      "bank": "culpa",
+      "balance": 154.1047
+    },
+    {
+      "id": 35,
+      "agency": 63,
+      "account": 425,
+      "bank": "mollit",
+      "balance": 955.5579
+    },
+    {
+      "id": 36,
+      "agency": 899,
+      "account": 651,
+      "bank": "Lorem",
+      "balance": 771.156
+    },
+    {
+      "id": 37,
+      "agency": 976,
+      "account": 429,
+      "bank": "non",
+      "balance": 238.9336
+    },
+    {
+      "id": 38,
+      "agency": 472,
+      "account": 52,
+      "bank": "culpa",
+      "balance": 128.339
+    },
+    {
+      "id": 39,
+      "agency": 554,
+      "account": 663,
+      "bank": "et",
+      "balance": 131.0167
+    },
+    {
+      "id": 40,
+      "agency": 899,
+      "account": 175,
+      "bank": "anim",
+      "balance": 22.8036
+    },
+    {
+      "id": 41,
+      "agency": 632,
+      "account": 31,
+      "bank": "in",
+      "balance": 467.7814
+    },
+    {
+      "id": 42,
+      "agency": 303,
+      "account": 263,
+      "bank": "ut",
+      "balance": 381.5187
+    },
+    {
+      "id": 43,
+      "agency": 10,
+      "account": 568,
+      "bank": "sint",
+      "balance": 220.791
+    },
+    {
+      "id": 44,
+      "agency": 294,
+      "account": 311,
+      "bank": "magna",
+      "balance": 555.5946
+    },
+    {
+      "id": 45,
+      "agency": 207,
+      "account": 975,
+      "bank": "laboris",
+      "balance": 110.2983
+    },
+    {
+      "id": 46,
+      "agency": 263,
+      "account": 417,
+      "bank": "anim",
+      "balance": 143.8291
+    },
+    {
+      "id": 47,
+      "agency": 402,
+      "account": 867,
+      "bank": "aliqua",
+      "balance": 608.1464
+    },
+    {
+      "id": 48,
+      "agency": 206,
+      "account": 250,
+      "bank": "reprehenderit",
+      "balance": 279.9917
+    },
+    {
+      "id": 49,
+      "agency": 395,
+      "account": 937,
+      "bank": "elit",
+      "balance": 802.8075
+    },
+    {
+      "id": 50,
+      "agency": 115,
+      "account": 271,
+      "bank": "aliqua",
+      "balance": 832.7423
+    },
+    {
+      "id": 51,
+      "agency": 388,
+      "account": 278,
+      "bank": "est",
+      "balance": 204.1291
+    },
+    {
+      "id": 52,
+      "agency": 705,
+      "account": 37,
+      "bank": "mollit",
+      "balance": 499.4975
+    },
+    {
+      "id": 53,
+      "agency": 516,
+      "account": 460,
+      "bank": "laboris",
+      "balance": 411.6298
+    },
+    {
+      "id": 54,
+      "agency": 12,
+      "account": 3,
+      "bank": "consectetur",
+      "balance": 269.6694
+    },
+    {
+      "id": 55,
+      "agency": 980,
+      "account": 656,
+      "bank": "est",
+      "balance": 609.6976
+    },
+    {
+      "id": 56,
+      "agency": 683,
+      "account": 732,
+      "bank": "duis",
+      "balance": 470.0869
+    },
+    {
+      "id": 57,
+      "agency": 129,
+      "account": 64,
+      "bank": "velit",
+      "balance": 900.6875
+    },
+    {
+      "id": 58,
+      "agency": 488,
+      "account": 246,
+      "bank": "aliqua",
+      "balance": 33.2755
+    },
+    {
+      "id": 59,
+      "agency": 437,
+      "account": 297,
+      "bank": "duis",
+      "balance": 648.2402
+    },
+    {
+      "id": 60,
+      "agency": 151,
+      "account": 761,
+      "bank": "occaecat",
+      "balance": 693.8194
+    },
+    {
+      "id": 61,
+      "agency": 756,
+      "account": 880,
+      "bank": "est",
+      "balance": 495.9429
+    },
+    {
+      "id": 62,
+      "agency": 541,
+      "account": 107,
+      "bank": "qui",
+      "balance": 924.4083
+    },
+    {
+      "id": 63,
+      "agency": 592,
+      "account": 764,
+      "bank": "quis",
+      "balance": 55.6101
+    },
+    {
+      "id": 64,
+      "agency": 322,
+      "account": 660,
+      "bank": "dolor",
+      "balance": 182.0776
+    },
+    {
+      "id": 65,
+      "agency": 376,
+      "account": 721,
+      "bank": "elit",
+      "balance": 316.5981
+    },
+    {
+      "id": 66,
+      "agency": 587,
+      "account": 878,
+      "bank": "in",
+      "balance": 335.454
+    },
+    {
+      "id": 67,
+      "agency": 11,
+      "account": 215,
+      "bank": "do",
+      "balance": 265.9377
+    },
+    {
+      "id": 68,
+      "agency": 889,
+      "account": 440,
+      "bank": "eu",
+      "balance": 129.8444
+    },
+    {
+      "id": 69,
+      "agency": 437,
+      "account": 350,
+      "bank": "et",
+      "balance": 336.4361
+    },
+    {
+      "id": 70,
+      "agency": 384,
+      "account": 266,
+      "bank": "incididunt",
+      "balance": 840.4975
+    },
+    {
+      "id": 71,
+      "agency": 112,
+      "account": 790,
+      "bank": "dolor",
+      "balance": 702.7703
+    },
+    {
+      "id": 72,
+      "agency": 443,
+      "account": 571,
+      "bank": "occaecat",
+      "balance": 537.1034
+    },
+    {
+      "id": 73,
+      "agency": 829,
+      "account": 924,
+      "bank": "eu",
+      "balance": 21.7227
+    },
+    {
+      "id": 74,
+      "agency": 756,
+      "account": 707,
+      "bank": "aliqua",
+      "balance": 138.3592
+    },
+    {
+      "id": 75,
+      "agency": 100,
+      "account": 981,
+      "bank": "aliqua",
+      "balance": 926.1655
+    },
+    {
+      "id": 76,
+      "agency": 789,
+      "account": 465,
+      "bank": "et",
+      "balance": 202.2127
+    },
+    {
+      "id": 77,
+      "agency": 556,
+      "account": 440,
+      "bank": "excepteur",
+      "balance": 665.6771
+    },
+    {
+      "id": 78,
+      "agency": 966,
+      "account": 431,
+      "bank": "ad",
+      "balance": 642.2042
+    },
+    {
+      "id": 79,
+      "agency": 835,
+      "account": 224,
+      "bank": "laboris",
+      "balance": 877.3926
+    },
+    {
+      "id": 80,
+      "agency": 887,
+      "account": 836,
+      "bank": "amet",
+      "balance": 319.7209
+    },
+    {
+      "id": 81,
+      "agency": 386,
+      "account": 146,
+      "bank": "esse",
+      "balance": 754.8679
+    },
+    {
+      "id": 82,
+      "agency": 481,
+      "account": 970,
+      "bank": "esse",
+      "balance": 964.9975
+    },
+    {
+      "id": 83,
+      "agency": 235,
+      "account": 639,
+      "bank": "cillum",
+      "balance": 713.0608
+    },
+    {
+      "id": 84,
+      "agency": 814,
+      "account": 193,
+      "bank": "reprehenderit",
+      "balance": 154.4477
+    },
+    {
+      "id": 85,
+      "agency": 519,
+      "account": 244,
+      "bank": "aliquip",
+      "balance": 960.5696
+    },
+    {
+      "id": 86,
+      "agency": 35,
+      "account": 44,
+      "bank": "anim",
+      "balance": 901.8534
+    },
+    {
+      "id": 87,
+      "agency": 976,
+      "account": 281,
+      "bank": "aliquip",
+      "balance": 723.8888
+    },
+    {
+      "id": 88,
+      "agency": 798,
+      "account": 68,
+      "bank": "veniam",
+      "balance": 305.9599
+    },
+    {
+      "id": 89,
+      "agency": 744,
+      "account": 512,
+      "bank": "Lorem",
+      "balance": 62.1021
+    },
+    {
+      "id": 90,
+      "agency": 918,
+      "account": 10,
+      "bank": "sit",
+      "balance": 30.4219
+    },
+    {
+      "id": 91,
+      "agency": 221,
+      "account": 437,
+      "bank": "velit",
+      "balance": 644.9492
+    },
+    {
+      "id": 92,
+      "agency": 103,
+      "account": 124,
+      "bank": "fugiat",
+      "balance": 571.3287
+    },
+    {
+      "id": 93,
+      "agency": 669,
+      "account": 69,
+      "bank": "deserunt",
+      "balance": 193.6728
+    },
+    {
+      "id": 94,
+      "agency": 100,
+      "account": 584,
+      "bank": "dolor",
+      "balance": 71.7371
+    },
+    {
+      "id": 95,
+      "agency": 644,
+      "account": 105,
+      "bank": "incididunt",
+      "balance": 18.882
+    },
+    {
+      "id": 96,
+      "agency": 632,
+      "account": 848,
+      "bank": "mollit",
+      "balance": 406.4893
+    },
+    {
+      "id": 97,
+      "agency": 668,
+      "account": 289,
+      "bank": "mollit",
+      "balance": 950.412
+    },
+    {
+      "id": 98,
+      "agency": 190,
+      "account": 382,
+      "bank": "laborum",
+      "balance": 359.1597
+    },
+    {
+      "id": 99,
+      "agency": 369,
+      "account": 122,
+      "bank": "ad",
+      "balance": 443.9231
+    },
+    {
+      "id": 100,
+      "agency": 499,
+      "account": 271,
+      "bank": "officia",
+      "balance": 968.403
+    }
   ]
 }
