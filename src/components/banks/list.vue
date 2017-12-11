@@ -20,7 +20,7 @@
           <tbody>
           <tr v-for="bank in banks">
             <td class="valign-wrapper">
-              {{ bank.name }} - {{ bank.id }}
+              {{ bank.name }} ({{ bank.id }})
             </td>
           </tr>
           </tbody>
@@ -33,9 +33,14 @@
 
 <script>
 export default {
-    name: 'Banks',
-    computed: {
-        
+  name: 'Banks',
+  computed: {
+    banks () {
+      return this.$store.state.bank.bankList
     }
+  },
+  created () {
+    this.$store.dispatch('getBanks')
+  }
 }
 </script>
