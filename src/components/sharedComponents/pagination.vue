@@ -1,23 +1,11 @@
 <template>
    <center>
   <ul class="pagination">
-    <li class="waves-effect">
-      <a href="">1</a>
-    </li>
-    <li class="active waves-effect">
-      <a href="">2</a>
-    </li>
-    <li class="waves-effect">
-      <a href="">3</a>
-    </li>
-    <li class="waves-effect">
-      <a href="">4</a>
-    </li>
-    <li class="waves-effect">
-      <a href="">5</a>
+    <li class="waves-effect" :class="{active: n == active}" v-for="n in parseInt(total)">
+      <a href="" @click.prevent="navigate(n)">{{ n }}</a>
     </li>
   </ul>
-  <p>Exibindo página 2 de 5, total de 85 registros.</p>
+  <p>Exibindo página {{ active }} de {{ total }}, total de {{ totalRegistries }} registros.</p>
 </center>
 </template>
 
@@ -29,6 +17,18 @@ export default {
     'resource',
     'file'
   ],
+  data: function () {
+    return {
+      active: 1,
+      total: 50,
+      totalRegistries: 75
+    }
+  },
+  methods: {
+    navigate: function (n) {
+      this.active = n
+    }
+  },
   created () {
     this.$store.dispatch(this.resource)
     console.log(this.file)
