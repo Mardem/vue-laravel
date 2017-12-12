@@ -18,13 +18,14 @@
           </tr>
           </thead>
           <tbody>
-          <tr v-for="bank in banks">
+          <tr v-for="(bank, $index) in banks">
             <td class="valign-wrapper">
-              {{ bank.name }} ({{ bank.id }})
+              {{ $index + 1}} - {{ bank.name }} ({{ bank.id }})
             </td>
           </tr>
           </tbody>
         </table>
+        <pagination totalPerPage="4" resource="getBanks" file="Hello props"></pagination>
       </div>
     </div>
   </div>
@@ -32,15 +33,17 @@
 
 
 <script>
+import Pagination from './../sharedComponents/Pagination'
+
 export default {
   name: 'Banks',
+  components: {
+    'pagination': Pagination
+  },
   computed: {
     banks () {
       return this.$store.state.bank.bankList
     }
-  },
-  created () {
-    this.$store.dispatch('getBanks')
   }
 }
 </script>
